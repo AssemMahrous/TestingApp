@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Testingapp</string>
+    <string name="prompt_email">Email</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="password">Password</string>
+    <string name="done">done</string>
+    <string name="fill_inputs">please fill the inputs</string>
+    <string name="wrong_email">please provide a valid email</string>
+    <string name="success">success</string>
+    <string name="you_hav_logged_in_successfully">you have logged in successfully</string>
+    <string name="dont_add_empty_string">please don\'t add empty strings</string>
+</resources>
